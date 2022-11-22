@@ -65,6 +65,8 @@ Pyramid program
 
 
 
+
+
 	     
 25.	1
 		2  2
@@ -75,10 +77,19 @@ Pyramid program
 
 
 
+
+
+
+
 26	AA
 		BBAA
 		AABBAA
 		BBAABBAA
+
+
+
+
+
 
 27.	00
 		1100
@@ -87,10 +98,15 @@ Pyramid program
 
 
 
+
+
 28.	*
 		***
 		*****
 		*******
+
+
+
 
 
 
@@ -103,11 +119,17 @@ Pyramid program
 
 
 
+
+
+
 30.	*****
 		****
 		***
 		**
 		*
+
+
+
 
 
 
@@ -119,12 +141,18 @@ Pyramid program
 		1
 
 
+
+
 32.                 *
     	      	  * * *
  	        * * * * *
  	      * * * * * * *
 	    * * * * * * * * *
-		
+	
+	
+	
+	
+	
 		
 33.	   * * * * * * * * *
   	     * * * * * * *
@@ -144,20 +172,23 @@ Pyramid program
                 1  4    6   4   1
               1  5   10   10  5   1
 
+
+
+
+
 One dimensional Array program 
 
-
-		Write a program that read and display an array <hr>
-		Find max & min array elements <hr>
-		Write a C program to find second largest element in an array.<hr>
-		Write a C program to count total number of even and odd elements in an array. <hr>
- 		Write a C program to insert an element in an array. <hr>
-		Write a C program to delete an element from an array at specified position. <hr>
-		Sorting an array elements using bubble sort algorithm <hr>
-		Matrix or 2_D array <hr>
-		Write a program that read and display an array <hr>
-		Write a program that  adds/sub two matrix <hr>
-		Write a program that multiply two matrix <hr>
+35.		Write a program that read and display an array <hr>
+36.		Find max & min array elements <hr>
+37.		Write a C program to find second largest element in an array.<hr>
+38.		Write a C program to count total number of even and odd elements in an array. <hr>
+39.		Write a C program to insert an element in an array. <hr>
+40.		Write a C program to delete an element from an array at specified position. <hr>
+41.		Sorting an array elements using bubble sort algorithm <hr>
+42.		Matrix or 2_D array <hr>
+43.		Write a program that read and display an array <hr>
+44.		Write a program that  adds/sub two matrix <hr>
+45.		Write a program that multiply two matrix <hr>
 
 
 
