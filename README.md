@@ -26,7 +26,7 @@ Pyramid program
 
 
 
-20.   		1
+20.   	1
    		1 2
    		1 2 3
 
@@ -35,7 +35,7 @@ Pyramid program
 
 
 
-21.   		1
+21.   	1
   		2 2
    		3 3 3
 
@@ -44,8 +44,8 @@ Pyramid program
 
 
 22.   	A
-   	A B
-   	A B C
+   		A B
+   		A B C
 
 23.     		A
 		     B      B
