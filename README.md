@@ -21,6 +21,120 @@
 18.  C Program to count number of digits in an integer <hr>
 19.  c program to reverse a number. <hr>
 
+Pyramid program
+
+   1
+   1 2
+   1 2 3
+
+
+   1
+   2 2
+   3 3 3
+
+   A
+   A B
+   A B C
+
+     A
+ B      B
+C   C     C
+      A
+ B      B
+C   C     C
+  B     B
+     A
+             1
+         2       2
+     3      3      3
+         2      2
+             1
+1
+2  2
+3   3  3
+2    2
+1
+
+	AA
+	BBAA
+	AABBAA
+	BBAABBAA
+
+	00
+	1100
+	001100
+	11001100
+
+
+	*
+	***
+	*****
+	*******
+
+
+	1
+	22
+	333
+	4444
+	55555
+
+
+
+	*****
+	****
+	***
+	**
+	*
+
+
+
+	1 2 3 4 5
+	1 2 3 4
+	1 2 3
+	1 2
+	1
+
+
+          *
+    	   * * *
+ 	    * * * * *
+ 	  * * * * * * *
+	 * * * * * * * * *
+
+	 * * * * * * * * *
+  	 * * * * * * *
+      * * * * *
+        * * *
+          *
+
+
+
+
+
+
+	          1
+         1   1
+       1   2   1
+     1   3   3    1
+   1  4    6   4   1
+ 1  5   10   10  5   1
+
+One dimensional Array program
+
+
+Write a program that read and display an array
+Find max & min array elements
+Write a C program to find second largest element in an array.
+Write a C program to count total number of even and odd elements in an array.
+ Write a C program to insert an element in an array.
+Write a C program to delete an element from an array at specified position.
+Sorting an array elements using bubble sort algorithm
+Matrix or 2_D array
+Write a program that read and display an array
+Write a program that  adds/sub two matrix
+Write a program that multiply two matrix
+
+
 
 
 
