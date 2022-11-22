@@ -21,21 +21,21 @@
 18.  C Program to count number of digits in an integer <hr>
 19.  c program to reverse a number. <hr>
 
-Pyramid program
+Pyramid program <hr>
 
    1
    1 2
    1 2 3
-
+<hr>
 
    1
    2 2
    3 3 3
-
+<hr>
    A
    A B
    A B C
-
+<hr>
      A
  B      B
 C   C     C
@@ -44,33 +44,39 @@ C   C     C
 C   C     C
   B     B
      A
+     
+ <hr>    
              1
          2       2
      3      3      3
          2      2
              1
+<hr>	     
+	     
 1
 2  2
 3   3  3
 2    2
 1
 
+<hr>
+
 	AA
 	BBAA
 	AABBAA
 	BBAABBAA
-
+<hr>
 	00
 	1100
 	001100
 	11001100
 
-
+<hr>
 	*
 	***
 	*****
 	*******
-
+<hr>
 
 	1
 	22
@@ -78,7 +84,7 @@ C   C     C
 	4444
 	55555
 
-
+<hr>
 
 	*****
 	****
@@ -87,52 +93,52 @@ C   C     C
 	*
 
 
-
+<hr>
 	1 2 3 4 5
 	1 2 3 4
 	1 2 3
 	1 2
 	1
 
-
-          *
-    	   * * *
- 	    * * * * *
- 	  * * * * * * *
+<hr>
+                 *
+    	       * * *
+ 	     * * * * *
+ 	   * * * * * * *
 	 * * * * * * * * *
 
 	 * * * * * * * * *
-  	 * * * * * * *
-      * * * * *
-        * * *
-          *
+  	   * * * * * * *
+             * * * * *
+               * * *
+                 *
 
 
 
-
+<hr>
 
 
 	          1
-         1   1
-       1   2   1
-     1   3   3    1
-   1  4    6   4   1
- 1  5   10   10  5   1
+                1   1
+              1   2   1
+            1   3   3    1
+           1  4    6   4   1
+         1  5   10   10  5   1
+<hr>
+One dimensional Array program <hr>
 
-One dimensional Array program
 
-
-Write a program that read and display an array
-Find max & min array elements
-Write a C program to find second largest element in an array.
-Write a C program to count total number of even and odd elements in an array.
- Write a C program to insert an element in an array.
-Write a C program to delete an element from an array at specified position.
-Sorting an array elements using bubble sort algorithm
-Matrix or 2_D array
-Write a program that read and display an array
-Write a program that  adds/sub two matrix
-Write a program that multiply two matrix
+Write a program that read and display an array <hr>
+Find max & min array elements <hr>
+Write a C program to find second largest element in an array.<hr>
+Write a C program to count total number of even and odd elements in an array. <hr>
+ Write a C program to insert an element in an array. <hr>
+Write a C program to delete an element from an array at specified position. <hr>
+Sorting an array elements using bubble sort algorithm <hr>
+Matrix or 2_D array <hr>
+Write a program that read and display an array <hr>
+Write a program that  adds/sub two matrix <hr>
+Write a program that multiply two matrix <hr>
 
 
 
