@@ -47,14 +47,14 @@ Pyramid program
    		A B
    		A B C
 
-23.     		A
+23.     	A
 		     B      B
 		   C    C     C
-      			A
+      		A
  		     B      B
 		   C    C     C
  		     B     B
-     			A
+     		A
      
  
 24.            1
