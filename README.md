@@ -1,8 +1,8 @@
 # L1T2-Lab-CSE1211
 
-<body>
+<body><div>
 1.   Area of a Circle. <hr>
-</body>
+</div></body>
 2.   Area of Rectangle. <hr>
 3.   To find the root of a quadratic equation. <hr>
 4.   Write a program that read ASCII value and display equivalent character. <hr>
