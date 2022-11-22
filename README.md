@@ -1,7 +1,6 @@
 # L1T2-Lab-CSE1211
 
-<<<<<<< Updated upstream
-=======
+
 1.   Area of a Circle.
 2.   Area of Rectangle.
 3.   To find the root of a quadratic equation.
@@ -22,7 +21,7 @@
 18.  C Program to count number of digits in an integer
 19.  c program to reverse a number.
 
->>>>>>> Stashed changes
+
 
 
  
