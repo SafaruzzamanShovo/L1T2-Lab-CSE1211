@@ -68,7 +68,7 @@ Pyramid program
 
 
 	     
-25.	1
+25.		1
 		2  2
 		3   3  3
 		2    2
@@ -81,7 +81,7 @@ Pyramid program
 
 
 
-26	AA
+26		AA
 		BBAA
 		AABBAA
 		BBAABBAA
@@ -91,7 +91,7 @@ Pyramid program
 
 
 
-27.	00
+27.		00
 		1100
 		001100
 		11001100
@@ -100,7 +100,7 @@ Pyramid program
 
 
 
-28.	*
+28.		*
 		***
 		*****
 		*******
@@ -111,7 +111,7 @@ Pyramid program
 
 
 
-29.	1
+29.		1
 		22
 		333
 		4444
@@ -122,7 +122,7 @@ Pyramid program
 
 
 
-30.	*****
+30.		*****
 		****
 		***
 		**
@@ -134,7 +134,7 @@ Pyramid program
 
 
 
-31.	1 2 3 4 5
+31.		1 2 3 4 5
 		1 2 3 4
 		1 2 3
 		1 2
