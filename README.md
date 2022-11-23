@@ -19,12 +19,12 @@ Arithmetic and Geometric Equation Solve
 7. 		Write a program that find Area of  circle
 8. 		Write a program that find Area of  triangle
 9. 		Write a program that find Area of Sqare
-10. 		Write a program that find Area of rectangular
-11. 		Write a program that find Perimeter of circle
-12. 		Write a program that find Perimeter of triangle 
-13. 		Write a program that find Perimeter of square
+10. 	Write a program that find Area of rectangular
+11. 	Write a program that find Perimeter of circle
+12. 	Write a program that find Perimeter of triangle 
+13. 	Write a program that find Perimeter of square
 14.		Write a program that find Perimeter of rectangular
-15. 		Write a program that find Volume of cylinder
+15. 	Write a program that find Volume of cylinder
 16.		Write a program that find Volume of square
 17.		Write a program that find Volume of rectangular
 18.		Write a program that find the root of a quadratic equation.
