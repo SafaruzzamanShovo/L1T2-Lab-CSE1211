@@ -4,41 +4,42 @@ Data , variable , Input - Output Operation , Operators and Expressions
 
 
 
-1.		Write a program that take input(Numbers,Character,String) and print as output .
-2.		Write a program that find the size of int, float, double and char .
-3.		Write a program that add two integers.
-4.		Write a program that read ASCII value and display equivalent character. 
-5.		Write a program that read any lower case latter and display in upper case. 
-6.		C Program to find out the ASCII value of a character.
+1.	Write a program that take input(Numbers,Character,String) and print as output .
+2.	Write a program that find the size of int, float, double and char .
+3.	Write a program that add two integers.
+4.	Write a program that read ASCII value and display equivalent character. 
+5.	Write a program that read any lower case latter and display in upper case. 
+6.	C Program to find out the ASCII value of a character.
+
 
 
 
 
 Arithmetic and Geometric Equation Solve
 
-7. 		Write a program that find Area of  circle
-8. 		Write a program that find Area of  triangle
-9. 		Write a program that find Area of Sqare
+7. 	Write a program that find Area of  circle
+8. 	Write a program that find Area of  triangle
+9. 	Write a program that find Area of Sqare
 10. 	Write a program that find Area of rectangular
 11. 	Write a program that find Perimeter of circle
 12. 	Write a program that find Perimeter of triangle 
 13. 	Write a program that find Perimeter of square
-14.		Write a program that find Perimeter of rectangular
+14.	Write a program that find Perimeter of rectangular
 15. 	Write a program that find Volume of cylinder
-16.		Write a program that find Volume of square
-17.		Write a program that find Volume of rectangular
-18.		Write a program that find the root of a quadratic equation.
+16.	Write a program that find Volume of square
+17.	Write a program that find Volume of rectangular
+18.	Write a program that find the root of a quadratic equation.
 
 Conditional Statement (if,else if,switch)
 
 
 
-19. 		Write  a program that find a number Positive or negative .
-20. 		Write  a program that find a number even or odd .
-21. 		Write  a  Program that find greatest of three numbers .
-22. 		Write  a program that find smallest of three numbers .
-23. 		Grading system program.
-24. 		Operator based Calculator
+19. 	Write  a program that find a number Positive or negative .
+20. 	Write  a program that find a number even or odd .
+21. 	Write  a  Program that find greatest of three numbers .
+22. 	Write  a program that find smallest of three numbers .
+23. 	Grading system program.
+24. 	Operator based Calculator
 
 
 
