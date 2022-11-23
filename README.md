@@ -4,18 +4,21 @@ Data , variable , Input - Output Operation , Operators and Expressions
 
 
 
-1.	Write a program that take input(Numbers,Character,String) and print as output .
-2.	Write a program that find the size of int, float, double and char .
-3.	Write a program that add two integers.
-4.	Write a program that read ASCII value and display equivalent character. 
-5.	Write a program that read any lower case latter and display in upper case. 
-6.	C Program to find out the ASCII value of a character.
+1.	  Write a program that take input(Numbers,Character,String) and print as output .
+2.	  Write a program that find the size of int, float, double and char .
+3.	  Write a program that add two integers.
+4.	  Write a program that read ASCII value and display equivalent character. 
+5.	  Write a program that read any lower case latter and display in upper case. 
+6.	  C Program to find out the ASCII value of a character.
 
 
 
 
 
 Arithmetic and Geometric Equation Solve
+
+
+
 
 7. 	Write a program that find Area of  circle
 8. 	Write a program that find Area of  triangle
