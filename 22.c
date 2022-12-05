@@ -1,20 +1,24 @@
 #include<stdio.h>
 int main(){
-    int n,i,f=1;
-    printf("Enter the Number : ");
-    scanf("%d",&n);
-    if(n==0 || n==1){
-        printf("%d is not prime number",n);
-        return 0;
-    }
-    for(i=2;i*i<=n;i++){
-        if(n%i==0){
-            f=0;
-            break;
+
+    int n,i,j,m;
+    printf("Enter the two Range  : ");
+    scanf("%d %d",&n,&m);
+    printf("Prime Numbers between %d and %d are : " , n , m);
+    for(i=n;i<=m;i++){
+        int f=1;
+        if(i==0 || i==1) continue;
+        for(j=2;j*j<=i;j++){
+                if(i%j==0){
+                f=0;
+                break;
+            }
+            //else f=0;
         }
+        if(f==1) printf("%d ",i);
+        //else if(f==1) printf("%d is not a  Prime Number\n",n);
     }
-    if(f==0) printf("%d is not Prime Number",n);
-    else if(f==1) printf("%d is  a  Prime Number\n",n);
+
 
   return 0;
 }
