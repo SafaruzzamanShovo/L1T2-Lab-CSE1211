@@ -37,7 +37,7 @@ Conditional Statement (if,else if,switch)
 20. 	  Write  a program that find a number even or odd .
 21. 	  Write  a  Program that find greatest of three numbers .
 22. 	  Write  a program that find smallest of three numbers .
-23. 	  Grading system : Given a mark ranging from 0 to 100 of student named Shovo . Write a program to compute and print the grade for the student.(Use Switch            	  Statement)
+23. 	  Grading system : Given a mark ranging from 0 to 100 of student named Shovo . Write a program to compute and print the grade for the student.(Use Switch Statement)
 
 
 
@@ -62,6 +62,15 @@ Control Statement(for loop , while loop,do-while loop)
 37. 	 C program to  Count Prime Number in a given range.
  
 Series Related Progeam:
+         1+2+3+4+..................upto n’th term.
+         1^2+2^2+3^2+4^2+........N^2
+         2+4+6+8+............... upto n’th term
+         4+12+20+28+………upto nth term
+         1+3+5+7+................upto n’th term
+         1.3+3.5+5.7+………….. upto n’th term
+         1+ 1/2 + 1/3 + 1/4 + 1/5 + ............ 1/N
+         1 + 3^2/3^3 + 5^2/5^3 + 7^2/7^3 + ... till N terms (use pow() function)
+         1.1^2+2.3^2+3.5^2+.............upto n’th term
 
 Pyramid program 
 
@@ -227,13 +236,90 @@ One dimensional Array program
 39.		Write a C program to insert an element in an array. 
 40.		Write a C program to delete an element from an array at specified position. 
 41.		Sorting an array elements using bubble sort algorithm.
-42.		Matrix or 2_D array.
+
+Two dimensional array Program
+
 43.		Write a program that read and display an array.
 44.		Write a program that  adds/sub two matrix.
 45.		Write a program that multiply two matrix. 
 
 
+Function 
 
+	Addition, subtraction, multiplication and division of numbers using function.
+	Swapping between two numbers using function
+	Find max & min array elements using function
+37.	Write a C program to find second largest element in an array using function
+38.	Write a C program to count total number of even and odd elements in an array function
+39.	Write a C program to insert an element in an array function
+40.	Write a C program to delete an element from an array at specified position function
+41.	Sorting an array elements using bubble sort algorithm function
+
+Recursion
+
+	Finding factorial using recursion .
+	Finding fibonacci using recursion .
+	
+	
+String 
+
+	Write a C program to find length of a string.
+	Write a C program to copy one string to another string.
+	Write a C program to concatenate two strings.
+	Write a C program to compare two strings.
+	Write a C program to convert lowercase string to uppercase.
+	Write a C program to convert uppercase string to lowercase.
+	Write a C program to find total number of alphabets, digits or special character in a string.
+	Write a C program to reverse order of words in a given string.
+	Write a C program to count total number of vowels and consonants in a string.
+ 	Write a C program to count total number of words in a string
+	Write a C program to find reverse of a string.
+	Write a C program to check whether a string is palindrome or not.
+	Write a C program to find highest frequency character in a string.
+	Write a C program that read any binary number and display equivalent decimal number.
+	Write a C program that read any octal number and display equivalent decimal number.
+	Write a C program that read any hexadecimal number and display equivalent decimal number.
+
+
+Pointer
+
+	Write a program in C to show the basic declaration of pointer
+	Write a program in C to demonstrate the use of &(address of) and *(value at address) operator.
+	Write a program in C to add two numbers using pointers.
+	Write a program in C to find the maximum number between two numbers using a pointer.
+	Write a program in C to store n elements in an array and print the elements using pointer.
+	Write a program in C to find the largest element using Dynamic Memory Allocation.
+	Write a program in C to Calculate the length of the string using a pointer.	
+	Write a program in C to count the number of vowels and consonants in a string using a pointer.
+	Write a program in C to sort an array using Pointer.
+ 	Write a program in C to compute the sum of all elements in an array using pointers.
+	Write a program in C to print the elements of an array in reverse order.
+	Write a program in C to print all the alphabets using a pointer.
+	Write a program in C to print a string in reverse using a pointer.
+	Program to create, initialize, assign and access a pointer variable.
+	Program to read array elements and print with addresses.
+	Program to count vowels and consonants in a string using pointer.
+	Program to print a string using pointer.
+	Program to change the value of constant integer using pointers.
+	Program to swap two numbers using pointers
+
+
+File related Problem
+
+	Write a program in C to create and store information in a text file.
+
+
+	Write a program in C to read an existing file.
+
+	Write a program that read an array and write a file with ascending order.
+	Write the following pyramid in a file
+	1
+	22
+	333
+	4444......
+	Write a program that count number of lower_case, upper_case, digit, space, line and other character in a file.
+	Write a program that read an array until EOF.
+	write a program that read n numbers from a file and display in output screen
 
 
  
