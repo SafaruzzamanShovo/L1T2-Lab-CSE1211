@@ -4,12 +4,12 @@ Data , variable , Input - Output Operation , Operators and Expressions
 
 
 
-1.	    Write a program that take input(Numbers,Character,String) and print as output .
-2.	    Write a program that find the size of int, float, double and char .
-3.	    Write a program that add two integers.
-4.	    Write a program that read ASCII value and display equivalent character. 
-5.	    Write a program that read any lower case latter and display in upper case. 
-6.	    C Program to find out the ASCII value of a character.
+1.	   Write a program that take input(Numbers,Character,String) and print as output .	    
+2.	   Write a program that find the size of int, float, double and char .	    
+3.	   Write a program that add two integers.	    
+4.	   Write a program that read ASCII value and display equivalent character. 	    
+5.	   Write a program that read any lower case latter and display in upper case. 	    
+6.	   C Program to find out the ASCII value of a character.
 
 
 
@@ -20,25 +20,25 @@ Arithmetic and Geometric Equation Solve
 
 
 
-7. 	  Write a program that find Area and Perimeter of  circle
-8.        Write a program that find Area and Perimeter of  triangle
-9. 	  Write a program that find Area and Perimeter of Sqare
-10. 	  Write a program that find Area and Perimeter of rectangular
+7. 	   Write a program that find Area and Perimeter of  circle
+8.         Write a program that find Area and Perimeter of  triangle
+9. 	   Write a program that find Area and Perimeter of Sqare
+10. 	   Write a program that find Area and Perimeter of rectangular
 
-11. 	  Write a program that find Volume of cylinder
-12.	  Write a program that find Volume of square
-13.	  Write a program that find Volume of rectangular
-14.	  Write a program that find the root of a quadratic equation.
+11. 	    Write a program that find Volume of cylinder
+12.	    Write a program that find Volume of square
+13.	    Write a program that find Volume of rectangular
+14.	    Write a program that find the root of a quadratic equation.
 
 
 Conditional Statement (if,else if,switch)
 
 
-15. 	  Write  a program that find a number Positive or negative .
-16. 	  Write  a program that find a number even or odd .
-17. 	  Write  a  Program that find greatest of three numbers .
-18. 	  Write  a program that find smallest of three numbers .
-19. 	  Grading system : Given a mark ranging from 0 to 100 of student named Shovo . Write a program to compute and print the grade for the student.(Use Switch Statement)
+15. 	    Write  a program that find a number Positive or negative .
+16. 	    Write  a program that find a number even or odd .
+17. 	    Write  a  Program that find greatest of three numbers .
+18. 	    Write  a program that find smallest of three numbers .
+19. 	    Grading system : Given a mark ranging from 0 to 100 of student named Shovo . Write a program to compute and print the grade for the student.(Use Switch Statement)
 
 
 
@@ -100,7 +100,7 @@ Pattern related program
 
 
 
-20.   	1
+42.   	1
    		1 2
    		1 2 3
 
@@ -109,7 +109,7 @@ Pattern related program
 
 
 
-21.   	1
+43.   	1
   		2 2
    		3 3 3
 
@@ -117,11 +117,11 @@ Pattern related program
 
 
 
-22.   	A
+44.   	A
    		A B
    		A B C
 
-23.     	A
+45.     	A
 		     B      B
 		   C    C     C
       		A
@@ -131,7 +131,7 @@ Pattern related program
      		A
      
  
-24.            1
+46.            1
            2       2
         3      3      3
            2      2
@@ -142,7 +142,7 @@ Pattern related program
 
 
 	     
-25.		1
+47.		1
 		2  2
 		3   3  3
 		2    2
@@ -155,7 +155,7 @@ Pattern related program
 
 
 
-26.			AA
+48.			AA
 			BBAA
 			AABBAA
 			BBAABBAA
@@ -165,7 +165,7 @@ Pattern related program
 
 
 
-27.		00
+49.		00
 		1100
 		001100
 		11001100
@@ -174,7 +174,7 @@ Pattern related program
 
 
 
-28.		*
+50.		*
 		***
 		*****
 		*******
@@ -185,7 +185,7 @@ Pattern related program
 
 
 
-29.		1
+51.		1
 		22
 		333
 		4444
@@ -196,7 +196,7 @@ Pattern related program
 
 
 
-30.		*****
+52.		*****
 		****
 		***
 		**
@@ -208,7 +208,7 @@ Pattern related program
 
 
 
-31.		1 2 3 4 5
+53.		1 2 3 4 5
 		1 2 3 4
 		1 2 3
 		1 2
@@ -217,7 +217,7 @@ Pattern related program
 
 
 
-32.                	 *
+54.                	 *
     	      	       * * *
  	       	     * * * * *
  	               * * * * * * *
@@ -228,7 +228,7 @@ Pattern related program
 	
 	
 		
-33.	       * * * * * * * * *
+55.	       * * * * * * * * *
   	         * * * * * * *
                * * * * *
                  * * *
@@ -239,7 +239,7 @@ Pattern related program
 
 
 
-34.	                       1
+56.	                       1
                          1   1
                        1   2   1
                      1   3   3    1
