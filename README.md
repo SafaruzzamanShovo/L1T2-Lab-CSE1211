@@ -25,19 +25,20 @@ Arithmetic and Geometric Equation Solve
 9. 	  Write a program that find Area and Perimeter of Sqare
 10. 	  Write a program that find Area and Perimeter of rectangular
 
-12. 	  Write a program that find Volume of cylinder
-13.	  Write a program that find Volume of square
-14.	  Write a program that find Volume of rectangular
-15.	  Write a program that find the root of a quadratic equation.
+11. 	  Write a program that find Volume of cylinder
+12.	  Write a program that find Volume of square
+13.	  Write a program that find Volume of rectangular
+14.	  Write a program that find the root of a quadratic equation.
+
 
 Conditional Statement (if,else if,switch)
 
 
-19. 	  Write  a program that find a number Positive or negative .
-20. 	  Write  a program that find a number even or odd .
-21. 	  Write  a  Program that find greatest of three numbers .
-22. 	  Write  a program that find smallest of three numbers .
-23. 	  Grading system : Given a mark ranging from 0 to 100 of student named Shovo . Write a program to compute and print the grade for the student.(Use Switch Statement)
+15. 	  Write  a program that find a number Positive or negative .
+16. 	  Write  a program that find a number even or odd .
+17. 	  Write  a  Program that find greatest of three numbers .
+18. 	  Write  a program that find smallest of three numbers .
+19. 	  Grading system : Given a mark ranging from 0 to 100 of student named Shovo . Write a program to compute and print the grade for the student.(Use Switch Statement)
 
 
 
@@ -47,32 +48,54 @@ Control Statement(for loop , while loop,do-while loop)
 
 
 
-25. 	 Odd-even numner check within a range
-26. 	 Prime Number check
-27. 	 Find Prime numbers in a given range
-28. 	 C Program to find factorial of a given number 
-29. 	 C Program to print Fibonacci series in a given range
-30. 	 Check a number is palindrome or not.
-31. 	 C program to display palindrome numbers in a given range 
-32. 	 Program to find GCD of two numbers 
-33. 	 C Program to find LCM of two numbers 
-34. 	 C Program to count number of digits in an integer 
-35. 	 C program to reverse a number. 
-36. 	 C program to count even-odd number .
-37. 	 C program to  Count Prime Number in a given range.
+20. 	 Odd-even numner check within a range
+
+21. 	 Prime Number check
+
+22. 	 Find Prime numbers in a given range
+
+23. 	 C Program to find factorial of a given number 
+
+24. 	 C Program to print Fibonacci series in a given range
+
+25. 	 Check a number is palindrome or not.
+
+26. 	 C program to display palindrome numbers in a given range 
+
+27. 	 Program to find GCD of two numbers 
+
+28. 	 C Program to find LCM of two numbers 
+
+29. 	 C Program to count number of digits in an integer 
+
+30. 	 C program to reverse a number. 
+
+31. 	 C program to count even-odd number .
+
+32. 	 C program to  Count Prime Number in a given range.
  
 Series Related Progeam:
-         1+2+3+4+..................upto n’th term.
-         1^2+2^2+3^2+4^2+........N^2
-         2+4+6+8+............... upto n’th term
-         4+12+20+28+………upto nth term
-         1+3+5+7+................upto n’th term
-         1.3+3.5+5.7+………….. upto n’th term
-         1+ 1/2 + 1/3 + 1/4 + 1/5 + ............ 1/N
-         1 + 3^2/3^3 + 5^2/5^3 + 7^2/7^3 + ... till N terms (use pow() function)
-         1.1^2+2.3^2+3.5^2+.............upto n’th term
 
-Pyramid program 
+33.         1+2+3+4+..................upto n’th term.
+
+34.         1^2+2^2+3^2+4^2+........N^2
+
+35.         2+4+6+8+............... upto n’th term
+
+36.         4+12+20+28+………upto nth term
+
+37.         1+3+5+7+................upto n’th term
+
+38.         1.3+3.5+5.7+………….. upto n’th term
+
+39.         1+ 1/2 + 1/3 + 1/4 + 1/5 + ............ 1/N
+
+40.         1 + 3^2/3^3 + 5^2/5^3 + 7^2/7^3 + ... till N terms (use pow() function)
+
+41.         1.1^2+2.3^2+3.5^2+.............upto n’th term
+
+
+Pattern related program 
 
 
 
