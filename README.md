@@ -20,29 +20,26 @@ Arithmetic and Geometric Equation Solve
 
 
 
-7. 	  Write a program that find Area of  circle
-8.        Write a program that find Area of  triangle
-9. 	  Write a program that find Area of Sqare
-10. 	  Write a program that find Area of rectangular
-11. 	  Write a program that find Perimeter of circle
-12. 	  Write a program that find Perimeter of triangle 
-13. 	  Write a program that find Perimeter of square
-14.	  Write a program that find Perimeter of rectangular
-15. 	  Write a program that find Volume of cylinder
-16.	  Write a program that find Volume of square
-17.	  Write a program that find Volume of rectangular
-18.	  Write a program that find the root of a quadratic equation.
+7. 	  Write a program that find Area and Perimeter of  circle
+8.        Write a program that find Area and Perimeter of  triangle
+9. 	  Write a program that find Area and Perimeter of Sqare
+10. 	  Write a program that find Area and Perimeter of rectangular
+
+12. 	  Write a program that find Volume of cylinder
+13.	  Write a program that find Volume of square
+14.	  Write a program that find Volume of rectangular
+15.	  Write a program that find the root of a quadratic equation.
 
 Conditional Statement (if,else if,switch)
-
 
 
 19. 	  Write  a program that find a number Positive or negative .
 20. 	  Write  a program that find a number even or odd .
 21. 	  Write  a  Program that find greatest of three numbers .
 22. 	  Write  a program that find smallest of three numbers .
-23. 	  Grading system program.
-24. 	  Operator based Calculator
+23. 	  Grading system : Given a mark ranging from 0 to 100 of student named Shovo . Write a program to compute and print the grade for the student.(Use Switch            	  Statement)
+
+
 
 
 
@@ -64,6 +61,7 @@ Control Statement(for loop , while loop,do-while loop)
 36. 	 C program to count even-odd number .
 37. 	 C program to  Count Prime Number in a given range.
  
+Series Related Progeam:
 
 Pyramid program 
 
