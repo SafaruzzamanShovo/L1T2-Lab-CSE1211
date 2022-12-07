@@ -269,50 +269,50 @@ Two dimensional array Program
 
 Function 
 
-67.	Addition, subtraction, multiplication and division of numbers using function.
-68.	Swapping between two numbers using function
-69.	Find max & min array elements using function
-70.	Write a C program to find second largest element in an array using function
-71.	Write a C program to count total number of even and odd elements in an array function
-72.	Write a C program to insert an element in an array function
-73.	Write a C program to delete an element from an array at specified position function
-74.	Sorting an array elements using bubble sort algorithm function
+67.		Addition, subtraction, multiplication and division of numbers using function.
+68.		Swapping between two numbers using function
+69.		Find max & min array elements using function
+70.		Write a C program to find second largest element in an array using function
+71.		Write a C program to count total number of even and odd elements in an array function
+72.		Write a C program to insert an element in an array function
+73.		Write a C program to delete an element from an array at specified position function
+74.		Sorting an array elements using bubble sort algorithm function
 
 Recursion
 
-75.	Finding factorial using recursion .
-76.	Finding fibonacci using recursion .
+75.		Finding factorial using recursion .
+76.		Finding fibonacci using recursion .
 	
 	
 String 
 
-77.	Write a C program to find length of a string
-78.	Write a C program to copy one string to another string
-79.	Write a C program to concatenate two strings
-80.	Write a C program to compare two strings
-81.	Write a C program to convert lowercase string to uppercase
-82.	Write a C program to convert uppercase string to lowercase
-83.	Write a C program to find total number of alphabets, digits or special character in a string
-84.	Write a C program to reverse order of words in a given string
-85.	Write a C program to count total number of vowels and consonants in a string
+77.		Write a C program to find length of a string
+78.		Write a C program to copy one string to another string
+79.		Write a C program to concatenate two strings
+80.		Write a C program to compare two strings
+81.		Write a C program to convert lowercase string to uppercase
+82.		Write a C program to convert uppercase string to lowercase
+83.		Write a C program to find total number of alphabets, digits or special character in a string
+84.		Write a C program to reverse order of words in a given string
+85.		Write a C program to count total number of vowels and consonants in a string
 86. 	Write a C program to count total number of words in a string
-87.	Write a C program to find reverse of a string
-88.	Write a C program to check whether a string is palindrome or not
-89.	Write a C program to find highest frequency character in a string
-90.	Write a C program that read any binary number and display equivalent decimal number
-91.	Write a C program that read any octal number and display equivalent decimal number
-92.	Write a C program that read any hexadecimal number and display equivalent decimal number
+87.		Write a C program to find reverse of a string
+88.		Write a C program to check whether a string is palindrome or not
+89.		Write a C program to find highest frequency character in a string
+90.		Write a C program that read any binary number and display equivalent decimal number
+91.		Write a C program that read any octal number and display equivalent decimal number
+92.		Write a C program that read any hexadecimal number and display equivalent decimal number
 
 
 Pointer
 
-93.	Write a program in C to show the basic declaration of pointer
-94.	Write a program in C to demonstrate the use of &(address of) and *(value at address) operator.
-95.	Write a program in C to add two numbers using pointers.
-96.	Write a program in C to find the maximum number between two numbers using a pointer.
-97.	Write a program in C to store n elements in an array and print the elements using pointer.
-98.	Write a program in C to find the largest element using Dynamic Memory Allocation.
-99.	Write a program in C to Calculate the length of the string using a pointer.	
+93.		Write a program in C to show the basic declaration of pointer
+94.		Write a program in C to demonstrate the use of &(address of) and *(value at address) operator.
+95.		Write a program in C to add two numbers using pointers.
+96.		Write a program in C to find the maximum number between two numbers using a pointer.
+97.		Write a program in C to store n elements in an array and print the elements using pointer.
+98.		Write a program in C to find the largest element using Dynamic Memory Allocation.
+99.		Write a program in C to Calculate the length of the string using a pointer.	
 100.	Write a program in C to count the number of vowels and consonants in a string using a pointer.
 101.	Write a program in C to sort an array using Pointer.
 102. 	Write a program in C to compute the sum of all elements in an array using pointers.
