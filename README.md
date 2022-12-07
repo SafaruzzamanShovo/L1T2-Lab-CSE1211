@@ -329,20 +329,21 @@ Pointer
 
 File related Problem
 
-	Write a program in C to create and store information in a text file.
+112.	Write a program in C to create and store information in a text file.
 
 
-	Write a program in C to read an existing file.
+113.	Write a program in C to read an existing file.
 
-	Write a program that read an array and write a file with ascending order.
-	Write the following pyramid in a file
-	1
+114.	Write a program that read an array and write a file with ascending order.
+115.	Write the following pyramid in a file
+
+116.	1
 	22
 	333
 	4444......
-	Write a program that count number of lower_case, upper_case, digit, space, line and other character in a file.
-	Write a program that read an array until EOF.
-	write a program that read n numbers from a file and display in output screen
+117.	Write a program that count number of lower_case, upper_case, digit, space, line and other character in a file.
+118.	Write a program that read an array until EOF.
+119.	write a program that read n numbers from a file and display in output screen
 
 
  
