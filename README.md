@@ -1,6 +1,6 @@
 # L1T2-Lab-CSE1211
 
-##Data , variable , Input - Output Operation , Operators and Expressions
+## Data , variable , Input - Output Operation , Operators and Expressions
 
 
 
@@ -15,7 +15,7 @@
 
 
 
-Arithmetic and Geometric Equation Solve
+## Arithmetic and Geometric Equation Solve
 
 
 
@@ -31,7 +31,7 @@ Arithmetic and Geometric Equation Solve
 14.	    Write a program that find the root of a quadratic equation.
 
 
-Conditional Statement (if,else if,switch)
+## Conditional Statement (if,else if,switch)
 
 
 15. 	    Write  a program that find a number Positive or negative .
@@ -44,7 +44,7 @@ Conditional Statement (if,else if,switch)
 
 
 
-Control Statement(for loop , while loop,do-while loop)
+## Control Statement(for loop , while loop,do-while loop)
 
 
 
@@ -74,7 +74,7 @@ Control Statement(for loop , while loop,do-while loop)
 
 32. 	 C program to  Count Prime Number in a given range.
  
-Series Related Progeam:
+## Series Related Progeam:
 
 33.         1+2+3+4+..................upto n’th term.
 
@@ -95,7 +95,7 @@ Series Related Progeam:
 41.         1.1^2+2.3^2+3.5^2+.............upto n’th term
 
 
-Pattern related program 
+## Pattern related program 
 
 
 
@@ -250,7 +250,7 @@ Pattern related program
 
 
 
-One dimensional Array program 
+## One dimensional Array program 
 
 57.		Write a program that read and display an array.
 58.		Find max & min array elements.
@@ -260,14 +260,14 @@ One dimensional Array program
 62.		Write a C program to delete an element from an array at specified position. 
 63.		Sorting an array elements using bubble sort algorithm.
 
-Two dimensional array Program
+## Two dimensional array Program
 
 64.		Write a program that read and display an array.
 65.		Write a program that  adds/sub two matrix.
 66.		Write a program that multiply two matrix. 
 
 
-Function 
+## Function 
 
 67.		Addition, subtraction, multiplication and division of numbers using function.
 68.		Swapping between two numbers using function
@@ -278,13 +278,13 @@ Function
 73.		Write a C program to delete an element from an array at specified position function
 74.		Sorting an array elements using bubble sort algorithm function
 
-Recursion
+## Recursion
 
 75.		Finding factorial using recursion .
 76.		Finding fibonacci using recursion .
 	
 	
-String 
+## String 
 
 77.		Write a C program to find length of a string
 78.		Write a C program to copy one string to another string
@@ -295,7 +295,7 @@ String
 83.		Write a C program to find total number of alphabets, digits or special character in a string
 84.		Write a C program to reverse order of words in a given string
 85.		Write a C program to count total number of vowels and consonants in a string
-86. 	Write a C program to count total number of words in a string
+86. 		Write a C program to count total number of words in a string
 87.		Write a C program to find reverse of a string
 88.		Write a C program to check whether a string is palindrome or not
 89.		Write a C program to find highest frequency character in a string
@@ -304,7 +304,7 @@ String
 92.		Write a C program that read any hexadecimal number and display equivalent decimal number
 
 
-Pointer
+## Pointer
 
 93.		Write a program in C to show the basic declaration of pointer
 94.		Write a program in C to demonstrate the use of &(address of) and *(value at address) operator.
@@ -327,7 +327,7 @@ Pointer
 111.		Program to swap two numbers using pointers
 
 
-File related Problem
+## File related Problem
 
 112.		Write a program in C to create and store information in a text file.
 
@@ -362,7 +362,7 @@ File related Problem
 
 
 
-Structure related
+## Structure related
 
 122.		Define a structure named EMP_INFO which contains employee_id,department_id and salary . Write a program to read information of 50 employees details information.
 
