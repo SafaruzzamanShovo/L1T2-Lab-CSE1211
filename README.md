@@ -334,16 +334,35 @@ File related Problem
 
 113.	Write a program in C to read an existing file.
 
-114.	Write a program that read an array and write a file with ascending order.
+114.	A file named beforesort.txt contains a series of integer number. Write a program to read these nunbers and after sorting these numbers in decending order, save in a new file named aftersort.txt
+	
 115.	Write the following pyramid in a file
 
-116.	1
+	1
 	22
 	333
-	4444......
-117.	Write a program that count number of lower_case, upper_case, digit, space, line and other character in a file.
-118.	Write a program that read an array until EOF.
-119.	write a program that read n numbers from a file and display in output screen
+	4444
+
+116.    Write a program to display  a pattern like below . Your program should take height of a patttern from keyboard . For example , a pattern of height 4 is shown below.
+117.    
+	AA
+	BBAA
+	AABBAA
+	BBAABBAA
+
+118. 
+        00
+        1100
+        001100
+        11001100
+
+119.	 Write a program that count number of lower_case, upper_case, digit, space, line and other character in a file.
+120.	 Write a program that read an array until EOF.
+121.	 write a program that read n numbers from a file and display in output screen
+
+
+
+Structure related
 
 
  
