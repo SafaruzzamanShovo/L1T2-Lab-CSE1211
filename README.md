@@ -293,15 +293,15 @@
 81.		Write a C program to convert lowercase string to uppercase
 82.		Write a C program to convert uppercase string to lowercase
 83.		Write a C program to find total number of alphabets, digits or special character in a string
-84.		~~Write a C program to reverse order of words in a given string
+84.		Write a C program to reverse order of words in a given string
 85.		Write a C program to count total number of vowels and consonants in a string
 86. 		Write a C program to count total number of words in a string
 87.		Write a C program to find reverse of a string
 88.		Write a C program to check whether a string is palindrome or not
-89.		~~Write a C program to find highest frequency character in a string~~
-90.		~~Write a C program that read any binary number and display equivalent decimal number~~
-91.		~~Write a C program that read any octal number and display equivalent decimal number~~
-92.		~~Write a C program that read any hexadecimal number and display equivalent decimal number~~
+89.		Write a C program to find highest frequency character in a string~~
+90.		Write a C program that read any binary number and display equivalent decimal number~~
+91.		Write a C program that read any octal number and display equivalent decimal number~~
+92.		Write a C program that read any hexadecimal number and display equivalent decimal number~~
 
 
 ## Pointer
