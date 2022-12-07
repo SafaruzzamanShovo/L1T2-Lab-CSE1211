@@ -306,25 +306,25 @@
 
 ## Pointer
 
-93.		Write a program in C to show the basic declaration of pointer
-94.		Write a program in C to demonstrate the use of &(address of) and *(value at address) operator.
-95.		Write a program in C to add two numbers using pointers.
-96.		Write a program in C to find the maximum number between two numbers using a pointer.
-97.		Write a program in C to store n elements in an array and print the elements using pointer.
-98.		Write a program in C to find the largest element using Dynamic Memory Allocation.
-99.		Write a program in C to Calculate the length of the string using a pointer.	
-100.		Write a program in C to count the number of vowels and consonants in a string using a pointer.
-101.		Write a program in C to sort an array using Pointer.
-102. 		Write a program in C to compute the sum of all elements in an array using pointers.
-103.		Write a program in C to print the elements of an array in reverse order.
-104.		Write a program in C to print all the alphabets using a pointer.
-105.		Write a program in C to print a string in reverse using a pointer.
-106.		Program to create, initialize, assign and access a pointer variable.
-107.		Program to read array elements and print with addresses.
-108.		Program to count vowels and consonants in a string using pointer.
-109.		Program to print a string using pointer.
-110.		Program to change the value of constant integer using pointers.
-111.		Program to swap two numbers using pointers
+93.		 Write a program in C to show the basic declaration of pointer
+94.		 Write a program in C to demonstrate the use of &(address of) and *(value at address) operator.
+95.		 Write a program in C to add two numbers using pointers.
+96.		 Write a program in C to find the maximum number between two numbers using a pointer.
+97.		 Write a program in C to store n elements in an array and print the elements using pointer.
+98.		 Write a program in C to find the largest element using Dynamic Memory Allocation.
+99.		 Write a program in C to Calculate the length of the string using a pointer.	
+100.		 Write a program in C to count the number of vowels and consonants in a string using a pointer.
+101.		 Write a program in C to sort an array using Pointer.
+102. 		 Write a program in C to compute the sum of all elements in an array using pointers.
+103.		 Write a program in C to print the elements of an array in reverse order.
+104.		 Write a program in C to print all the alphabets using a pointer.
+105.		 Write a program in C to print a string in reverse using a pointer.
+106.		 Program to create, initialize, assign and access a pointer variable.
+107.		 Program to read array elements and print with addresses.
+108.		 Program to count vowels and consonants in a string using pointer.
+109.		 Program to print a string using pointer.
+110.		 Program to change the value of constant integer using pointers.
+111.		 Program to swap two numbers using pointers
 
 
 ## File related Problem
