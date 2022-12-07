@@ -364,5 +364,7 @@ File related Problem
 
 Structure related
 
+122.Define a structure named EMP_INFO which contains employee_id,department_id and salary . Write a program to read information of 50 employees details information.
+
 
  
