@@ -252,31 +252,31 @@ Pattern related program
 
 One dimensional Array program 
 
-35.		Write a program that read and display an array.
-36.		Find max & min array elements.
-37.		Write a C program to find second largest element in an array.
-38.		Write a C program to count total number of even and odd elements in an array. 
-39.		Write a C program to insert an element in an array. 
-40.		Write a C program to delete an element from an array at specified position. 
-41.		Sorting an array elements using bubble sort algorithm.
+57.		Write a program that read and display an array.
+58.		Find max & min array elements.
+59.		Write a C program to find second largest element in an array.
+60.		Write a C program to count total number of even and odd elements in an array. 
+61.		Write a C program to insert an element in an array. 
+62.		Write a C program to delete an element from an array at specified position. 
+63.		Sorting an array elements using bubble sort algorithm.
 
 Two dimensional array Program
 
-43.		Write a program that read and display an array.
-44.		Write a program that  adds/sub two matrix.
-45.		Write a program that multiply two matrix. 
+64.		Write a program that read and display an array.
+65.		Write a program that  adds/sub two matrix.
+66.		Write a program that multiply two matrix. 
 
 
 Function 
 
-	Addition, subtraction, multiplication and division of numbers using function.
-	Swapping between two numbers using function
-	Find max & min array elements using function
-37.	Write a C program to find second largest element in an array using function
-38.	Write a C program to count total number of even and odd elements in an array function
-39.	Write a C program to insert an element in an array function
-40.	Write a C program to delete an element from an array at specified position function
-41.	Sorting an array elements using bubble sort algorithm function
+67.	Addition, subtraction, multiplication and division of numbers using function.
+68.	Swapping between two numbers using function
+69.	Find max & min array elements using function
+70.	Write a C program to find second largest element in an array using function
+71.	Write a C program to count total number of even and odd elements in an array function
+72.	Write a C program to insert an element in an array function
+73.	Write a C program to delete an element from an array at specified position function
+74.	Sorting an array elements using bubble sort algorithm function
 
 Recursion
 
