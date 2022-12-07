@@ -313,58 +313,58 @@ Pointer
 97.		Write a program in C to store n elements in an array and print the elements using pointer.
 98.		Write a program in C to find the largest element using Dynamic Memory Allocation.
 99.		Write a program in C to Calculate the length of the string using a pointer.	
-100.	Write a program in C to count the number of vowels and consonants in a string using a pointer.
-101.	Write a program in C to sort an array using Pointer.
-102. 	Write a program in C to compute the sum of all elements in an array using pointers.
-103.	Write a program in C to print the elements of an array in reverse order.
-104.	Write a program in C to print all the alphabets using a pointer.
-105.	Write a program in C to print a string in reverse using a pointer.
-106.	Program to create, initialize, assign and access a pointer variable.
-107.	Program to read array elements and print with addresses.
-108.	Program to count vowels and consonants in a string using pointer.
-109.	Program to print a string using pointer.
-110.	Program to change the value of constant integer using pointers.
-111.	Program to swap two numbers using pointers
+100.		Write a program in C to count the number of vowels and consonants in a string using a pointer.
+101.		Write a program in C to sort an array using Pointer.
+102. 		Write a program in C to compute the sum of all elements in an array using pointers.
+103.		Write a program in C to print the elements of an array in reverse order.
+104.		Write a program in C to print all the alphabets using a pointer.
+105.		Write a program in C to print a string in reverse using a pointer.
+106.		Program to create, initialize, assign and access a pointer variable.
+107.		Program to read array elements and print with addresses.
+108.		Program to count vowels and consonants in a string using pointer.
+109.		Program to print a string using pointer.
+110.		Program to change the value of constant integer using pointers.
+111.		Program to swap two numbers using pointers
 
 
 File related Problem
 
-112.	Write a program in C to create and store information in a text file.
+112.		Write a program in C to create and store information in a text file.
 
 
-113.	Write a program in C to read an existing file.
+113.		Write a program in C to read an existing file.
 
-114.	A file named beforesort.txt contains a series of integer number. Write a program to read these nunbers and after sorting these numbers in decending order, save in a new file named aftersort.txt
+114.		A file named beforesort.txt contains a series of integer number. Write a program to read these nunbers and after sorting these numbers in decending order, save in a new file named aftersort.txt
 	
-115.	Write the following pyramid in a file
+115.		Write the following pyramid in a file
 
 	1
 	22
 	333
 	4444
 
-116.    Write a program to display  a pattern like below . Your program should take height of a patttern from keyboard . For example , a pattern of height 4 is shown below.
-117.    
+116.    	Write a program to display  a pattern like below . Your program should take height of a patttern from keyboard . For example , a pattern of height 4 is shown below.
+117.    	
 	AA
 	BBAA
 	AABBAA
 	BBAABBAA
 
-118. 
+118. 	
         00
         1100
         001100
         11001100
 
-119.	 Write a program that count number of lower_case, upper_case, digit, space, line and other character in a file.
-120.	 Write a program that read an array until EOF.
-121.	 write a program that read n numbers from a file and display in output screen
+119.		 Write a program that count number of lower_case, upper_case, digit, space, line and other character in a file.
+120.		 Write a program that read an array until EOF.
+121.		 write a program that read n numbers from a file and display in output screen
 
 
 
 Structure related
 
-122.Define a structure named EMP_INFO which contains employee_id,department_id and salary . Write a program to read information of 50 employees details information.
+122.		Define a structure named EMP_INFO which contains employee_id,department_id and salary . Write a program to read information of 50 employees details information.
 
 
  
